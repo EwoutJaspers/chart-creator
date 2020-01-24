@@ -1,0 +1,90 @@
+body {
+    font: 400 100% 'Neue Helvetica W01', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+   
+    
+    color: #191919;
+}
+
+p {
+    font-size: 18.4px;
+    font-size: 1.15rem;
+    line-height: 1.2;
+    max-width: 40em;
+}
+
+a {
+    color: #191919;
+}
+
+.sidebar {
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-right: 0px;
+  background: white ;
+  border-right: solid #ddd 1px;
+  min-height: 85vh;
+            }
+
+.main-title{
+  background-color: #004785;
+  color: white;
+  padding: 2em;
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+.created-files{
+  background-color: #004785;
+  color: white;
+  
+  padding: 2em;
+  margin: 0;
+  
+}
+
+
+.look_down {
+  font-weight: bold;
+  font-size: 24px;
+  }
+  
+.btn {
+    border-radius: 0;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-weight: bold;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 16px 24px;
+    padding: 1rem 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: all .15s linear;
+    transition: all .15s linear;
+     background-color: #eaeaea;
+    color: black;
+}
+
+
+.setting-option{
+  border-top: solid 1px #ddd;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.setting-option__no-border{
+  border-top: none;
+}
+
+
+
+.chart-div-chart-1{
+  border: dashed #ddd 1px;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #004785;
+
+}

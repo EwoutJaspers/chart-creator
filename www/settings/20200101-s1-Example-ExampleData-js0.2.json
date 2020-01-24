@@ -1,0 +1,47 @@
+{
+  "chartType": "line",
+  "dateFormatInput": "%Y-%m-%d",
+  "dateFormatTooltip": "%d %B %Y",
+  "locationNames": ["nhs_board_name", "location_name"],
+  "locationLabels": ["NHS Board", "location"],
+  "dateCatName": "date_variable",
+  "measureName": "",
+  "measureLabel": "",
+  "variableNames": ["variable_1", "variable_2"],
+  "variableLabels": ["Variable 1", "Variable 2"],
+  "title": " - Example Title",
+  "xlabel": "Week ending",
+  "ylabel": "Variables",
+  "xFormatString": "%m%Y",
+  "circlesize": 6,
+  "highlight_circlesize": 10,
+  "colourNumbers ": ["I", "II", "III", "IV", "V", "VI"],
+  "colours": {
+    "I": "#004785",
+    "II": "#007db3",
+    "III": "#4c7ea9",
+    "IV": "#99daf5",
+    "V": "#4cbeed",
+    "VI": "#99b5ce"
+  },
+  "font_family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+  "tooltip_adjustright": 160,
+  "lineStroke": 2,
+  "margin": {
+    "top": 25,
+    "right": 20,
+    "bottom": 45,
+    "left": 65
+  },
+  "ticks": 4,
+  "numberofticks": {
+    "sm": 4,
+    "md": 4,
+    "lg": 6
+  },
+  "minWidth": 320,
+  "maxWidth": 920,
+  "divWidth": 320,
+  "h": 600,
+  "w": 400
+}
