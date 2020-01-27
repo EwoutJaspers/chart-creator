@@ -1,6 +1,6 @@
 
 # Timetrend chart-creator
-R Shiny app to help create [d3.js](https://d3js.org/) interactive charts for the ISD website
+R Shiny app to help create interactive charts for the ISD website
 
 ### Data file preparation
 To use the settings creator the following columns need to be included in the csv data file: 
