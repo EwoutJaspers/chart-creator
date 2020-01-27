@@ -5,6 +5,10 @@
 # Data files
 www/data/
 
+www/settings/
+
+save_selection.rds
+
 # Session Data files
 .RData
 
