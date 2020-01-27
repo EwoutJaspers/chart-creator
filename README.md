@@ -13,9 +13,8 @@ To use the settings creator the following columns need to be included in the csv
 
 *	Measure column (e.g. specialty) (optional)  
 
-*	Variable columns (maximum 6 can be included in a chart, though it advised to not include more than 3 to 4 lines). 
+*	Variable columns (maximum 6 can be included in a chart, though it advised to not include more than 3 to 4 variables). 
 
-not include more than 3 to 4 lines). 
 The location data will also need to include information on aggregated data on Scotland and board level. In case of two location columns they need to be in the following format, with the figures on NHS Board level and Scotland included with the same value in both columns: 
 
 | date_variable |	nhs_board_name |	location_name |
