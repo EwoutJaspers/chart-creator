@@ -15,7 +15,7 @@ To use the settings creator the following columns need to be included in the csv
 
 *	Variable columns (maximum 6 can be included in a chart, though it advised to not include more than 3 to 4 variables). 
 
-The location data will also need to include information on aggregated data on Scotland and board level. In case of two location columns they need to be in the following format, with the figures on NHS Board level and Scotland included with the same value in both columns: 
+The location data will also need to include aggregated data on Scotland and board level. In case of two location columns they need to be in the following format, with the figures on NHS Board level and Scotland included with the same location name in both columns: 
 
 | date_variable |	nhs_board_name |	location_name |
 | ------------- | -------------- |-------------- |
@@ -24,7 +24,7 @@ The location data will also need to include information on aggregated data on Sc
 | 2016-03-06 |	NHS Ayrshire & Arran |	NHS Ayrshire & Arran |
 | 2016-03-06	| Scotland	| Scotland |
  
-Please note that only Scotland as value for Scotland currently works and not NHSScotland. This will change in the next update to the chart creator.
+Please note that only Scotland as location name for Scotland currently works and not NHSScotland. This will change in the next update to the chart creator.
 
 ### Setup
 
