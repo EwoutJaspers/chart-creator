@@ -35,16 +35,16 @@ R and RStudio with the following packages:
 3.	readr
 4.	jsonlite
 5.	stringr
+
 Creating the chart settings file
+
 1.	Go to the "chart-settings-creator" folder
 2.	Go to the "/www/data" folder
 3.	Place the data file(s) for the charts in this folder
 4.	Go back to the main "chart-settings-creator" folder 
 5.	Open the App.R file in R
 6.	Press Run App 
- 
 7.	Click open in Browser 
- 
 8.	Select the publication date
 9.	Add the chart-topic
 10.	Select the chart number (number of the chart on the page). 
@@ -112,8 +112,10 @@ Creating the chart settings file
 To create the settings and preview the settings file press the "Create/reload and test settings" button. This will show a preview version of the chart. If required adjust and reload the settings file so the chart looks good in small, medium and large sizes. 
 
 ### Saving the settings file
-Once the file is ready for publication it can be copied from the "www/settings" folder and put into the publication folder together with the data file. Add in the email to the publications team which files belong together in the following format: 
+Once the file is ready for publication click "Download settings file" and save the file. For the publication put the settings file in the publication folder together with the data file. Add in the email to the publications team which files belong together in the following format: 
+
 Chart 1: datafile name, settings file name  
+
 Chart 2: datafile name, settings file name  
 
 
