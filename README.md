@@ -7,11 +7,11 @@ To use the settings creator the following columns need to be included in the csv
 
 *	date variable column (required). 
 
-*	NHS Board location column (dropdown - required). At the moment the first column needs to be an NHS Board column, this will change in the next update to the chart creator. 
+*	NHS Board location column (required). At the moment the first column needs to be an NHS Board column, this will change in the next update to the chart creator. 
 
-*	Second location column (e.g. hospitals) (dropdown - optional)
+*	Second location column (e.g. hospitals) (optional)
 
-*	Measure column (e.g. specialty) (dropdown - optional)  
+*	Measure column (e.g. specialty) (optional)  
 
 *	Variable columns (maximum 6 can be included in a chart, though it advised to not include more than 3 to 4 lines). 
 
