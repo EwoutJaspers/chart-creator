@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Data files
+www/data/
+
 # Session Data files
 .RData
 
@@ -37,3 +40,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
